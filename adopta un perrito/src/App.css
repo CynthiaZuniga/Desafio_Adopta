@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: url(https://img.freepik.com/free-vector/cute-colorful-kitten-pow-pattern-design_1017-14710.jpg?w=740&t=st=1702194670~exp=1702195270~hmac=9dafcf2aeae1bc0e4bc307b28149e257036a3e3f3ebbdf40172be957a63ea3c6);
+ 
+}
+h1 {
+  padding: 15px;
+}
+
+div > .edicion {
+  display: flex;
+  flex-wrap: wrap;
+  justify-self: center;
+  justify-content: space-between;
+  padding-bottom: 20px;
+
+}
+
+.card {
+  
+    padding: 2em;
+}
+
+footer {
+  font-weight: 600;
+  font-size: larger;
+
+}
